@@ -6,4 +6,4 @@ Finished courses:
 
 Ongoing:
 - SQL on Udemey
-- Tableau
+- Tableau on Udemy (Planning to get Tableau Desktop certificate)
